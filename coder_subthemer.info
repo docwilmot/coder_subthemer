@@ -4,5 +4,7 @@ package = Development
 backdrop = 1.x
 type = module
 dependencies[] = coder_upgrade
+tags[] = media
+tags[] = thme-enhancements
 
 configure = admin/config/development/coder-subthemer
