@@ -2,9 +2,12 @@ name = Coder Subthemer
 description = Builds a subtheme from a provided base.
 package = Development
 backdrop = 1.x
-type = module
+type = theme
 dependencies[] = coder_upgrade
-tags[] = media
+colors[] = Blue
+colors[] = Yellow
+colors[] = green
+colors[] = Bamboo
 tags[] = thme-enhancements
 
 configure = admin/config/development/coder-subthemer
