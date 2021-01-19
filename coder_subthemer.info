@@ -2,7 +2,10 @@ name = Coder Subthemer
 description = Builds a subtheme from a provided base.
 package = Development
 backdrop = 1.x
-type = module
+type = theme
+dependencies[] = coder_upgrade
+screenshots[] = admin_title.png
+dependencies[] = androidworld.png
 dependencies[] = coder_upgrade
 
 configure = admin/config/development/coder-subthemer
