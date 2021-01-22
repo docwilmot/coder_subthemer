@@ -4,7 +4,7 @@ package = Development
 backdrop = 1.x
 type = theme
 dependencies[] = coder_upgrade
-screenshots[] = admin_title.png
+screenshots[default] = admin_title.png
 dependencies[] = androidworld.png
 dependencies[] = coder_upgrade
 
